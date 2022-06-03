@@ -1,8 +1,17 @@
-# <h1>👋 Hi, I'm Anuraag Korukanti! </h1>
+#
 
-# <p>I'm an aspiring full-stack developer with a specialization in Html, CSS & JavaScript. Self-motivated, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.</p>
+<h1>👋 Hi, I'm Anuraag Korukanti! </h1>
 
-# <h1>Contact Links:</h1>
+#
+
+<p>I'm an aspiring full-stack developer with a specialization in Html, CSS & JavaScript. Self-motivated, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment. 
+</p>
+
+#
+
+<h2>Contact Links:</h2>
+
+#
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/anuraag-korukanti-4038a7237/">
