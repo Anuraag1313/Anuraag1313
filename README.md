@@ -11,8 +11,6 @@
 
 <h2>Contact Links:</h2>
 
-#
-
 <p align="center">
 	<a href="https://www.linkedin.com/in/anuraag-korukanti-4038a7237/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
