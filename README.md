@@ -27,16 +27,17 @@
 
 # 
 
-<h3>Status</h3>
-
-#
+<h3>Status:</h3>
 
 <h5>Contribution graph</h5>
-
-#
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuraag1313&theme=react-dark)](https://github.com/RajP62/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuraag1313&show_icons=true&theme=radical)
+
+<h5>Languages</h5>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuraag1313&show_icons=true&locale=en&layout=compact&hide=css" alt="rajp62" /></p>
+
 
 
