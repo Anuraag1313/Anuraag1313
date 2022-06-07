@@ -24,3 +24,9 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
+
+#
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anuraag1313&theme=react-dark)](https://github.com/RajP62/github-readme-activity-graph)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajp62&show_icons=true&theme=radical)
